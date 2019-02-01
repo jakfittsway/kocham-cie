@@ -8,6 +8,12 @@ border: 2px solid yellow;
 width: 192px;
 }
 
+li {
+  display: grid;
+  background-color: brown;
+  color: white;
+}
+
 p {
   font-family: "Comic Sans MS";
 }
