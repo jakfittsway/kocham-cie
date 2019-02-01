@@ -23,8 +23,11 @@ p {
 img {
   display: grid;
   grid-template-columns: repeat(3 , 1fr);
+  grid-column-gap: 9px;
+  grid-row-gap: 20px;
 }
 
 video {
   width: 240px;
+  top: 9px;
 }
