@@ -4,9 +4,9 @@ align-content: center;}
   
 h1 {
 font-family: Georgia;
-font-size: 29px;
+font-size: 59px;
 font-transform: uppercase;
-background-color: blue;
+background-color: navy;
 color: tan;
 border: 2px solid yellow;
 width: 192px;
@@ -14,7 +14,7 @@ width: 192px;
 
 h2 {
 font-family: "Comic Sans MS;
-font-size: 22px;
+font-size: 52px;
 font-transform: uppercase;
 background-color: green;
 color: red;
@@ -24,7 +24,7 @@ width: 192px;
 
 h3 {
 font-family: "Helvetica";
-font-size: 20px;
+font-size: 47px;
 font-transform: lowercase;
 background-color: purple;
 color: yellow;
@@ -34,7 +34,7 @@ width: 192px;
 
 h4 {
 font-family: "Bodoni 72";
-font-size: 18px;
+font-size: 47px;
 font-transform: uppercase;
 background-color: orange;
 color: navy;
@@ -44,7 +44,7 @@ width: 192px;
 
 h5 {
 font-family: "Times New Roman";
-font-size: 16px;
+font-size: 40px;
 font-transform: uppercase;
 background-color: aqua;
 color: maroon;
@@ -54,7 +54,7 @@ width: 192px;
 
 h6 {
 font-family: "Georgia";
-font-size: 16px;
+font-size: 36px;
 font-transform: uppercase;
 background-color: silver;
 color: red;
